@@ -1,0 +1,33 @@
+body {
+    font-family: sans-serif;
+    background-color: #A8F000;
+}
+a {
+    color: #CD0074;		
+}
+h1 {
+   color: #4284D3;
+}
+p {
+  color: #34CFBE; 
+}
+.frog {
+  display: flex;
+}
+.link-nav {
+  text-decoration:none ;
+  border: 1px solid #CD0074 ;
+  border-radius: 15px;
+  padding: 7px;
+  margin-top: 52px;
+}
+.link-header {
+  text-decoration:none ;
+  border: 1px solid #CD0074 ;
+  border-radius: 15px;
+  padding: 7px;
+  margin-bottom: 52px;
+}
+nav {
+  margin-top: 20px;
+}
